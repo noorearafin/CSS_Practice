@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:white;
+}
+.container{
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    margin:auto;
+    padding:20px;
+}
+.profileimage{
+    width: 100px;
+    height:120px;
+    border: 3px solid skyblue;
+    border-radius: 50%;
+    float:left;
+    
+
+}
+.headertext{
+     float:left;
+     padding:30px;
+     color:cadetblue;
+}
+.headercontact{
+    padding:30px;
+    float:right;
+    text-decoration: underline;
+    color:tomato;
+
+     
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border:solid black  ;
+    width: 100%;
+    margin:20px auto;
+}
+#peronal-section{
+
+}
+.contant{
+
+}
+.left{
+  width:30%;
+  float:left;
+  color:teal;
+}
+.right{
+  width:70%;
+  float:left;
+
+}
+.commonhr{
+    border:solid black 0.8px;
+    width:100%;
+    margin:20px auto;
+
+
+}
+
+
+
