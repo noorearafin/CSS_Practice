@@ -1,0 +1,11 @@
+body{
+    background-image: url("92CF41D4.jpeg");
+    background-repeat: no-repeat ;
+    background-position: right;
+    background-size: auto;
+    
+
+}
+h1{
+  background-image:linear-gradient(to right,red,green);
+}
